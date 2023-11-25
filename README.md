@@ -127,7 +127,8 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('areaofsquareprism/',views.sqarea,name="areaofsquareprism"),
     path('',views.sqarea,name="areaofsquareprismroot")
-]```
+]
+```
 
 ## SERVER SIDE PROCESSING:
 ![Alt text](<Server Side Processing.jpg>)
